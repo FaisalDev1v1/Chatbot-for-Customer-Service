@@ -1,0 +1,34 @@
+To make program working : 
+
+1. Install Visual Studio Code:
+● Download and install Visual Studio Code from the official website:
+https://code.visualstudio.com/download
+● Follow the instructions provided during the installation process to
+complete the installation.
+
+
+2. Install Telebot Library:
+● Open a terminal or command prompt and enter the following command to
+install Telebot:
+● pip install pyTelegramBotAPI
+● Wait for the installation to complete.
+
+
+
+3. Install openai libary 
+● open a terminal or command prompt and enter the following command to
+install Telebot:
+● pip install openai
+● Wait for the installation to complete.
+
+
+4. copy paste code from source  :
+● copy code from source file and past in your own file 
+
+5. make sure all previous steps it's ok 
+● now open terminal and run code , write  pyhton main.py
+● go to chatbot channel in Telegram from this link  https://t.me/ChatbotCSbot
+
+
+
+
