@@ -4,10 +4,13 @@ Chatbot for Customer Service
 A project built with pure Python and Telebot library  to automate chatting 
 
 #### Technology used : 
-Python :
+- Python :
 https://www.python.org/
-OPENAI API :
+
+- OPENAI API :
 https://openai.com/blog/openai-api
-Tele bot
+
+- Tele bot
+https://pypi.org/project/telebot/
 
 
