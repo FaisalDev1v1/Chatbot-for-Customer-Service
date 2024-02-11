@@ -1,4 +1,13 @@
-# Chatbot-for-Customer-Service
-Chatbot for Customer Service model Natural language processing  Act as Customer Service employe
+### Title's Project 
+Chatbot for Customer Service
+### Description 
+A project built with pure Python and Telebot library  to automate chatting 
 
-### Used Python with openai api
+#### Technology used : 
+Python :
+https://www.python.org/
+OPENAI API :
+https://openai.com/blog/openai-api
+Tele bot
+
+
