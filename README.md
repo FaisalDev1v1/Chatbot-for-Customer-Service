@@ -35,5 +35,30 @@ This project is built using the following technologies:
 - python-telegram-bot library
 
 ## Getting Started
+To make program working : 
+
+1. Install Visual Studio Code:
+● Download and install Visual Studio Code from the official website:
+https://code.visualstudio.com/download
+● Follow the instructions provided during the installation process to
+complete the installation.
+
+
+2. Install Telebot Library:
+● Open a terminal or command prompt and enter the following command to
+install Telebot:
+● pip install pyTelegramBotAPI
+● Wait for the installation to complete.
+
+
+
+3. Install openai libary 
+● open a terminal or command prompt and enter the following command to
+install Telebot:
+● pip install openai
+● Wait for the installation to complete.
+
+
+
 
 
