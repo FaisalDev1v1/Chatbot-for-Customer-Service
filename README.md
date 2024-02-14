@@ -8,11 +8,7 @@ Welcome to the Chatbot for Customer Service in Telegram!
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [OpenAI API](#openai-api)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
